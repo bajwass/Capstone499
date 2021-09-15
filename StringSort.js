@@ -1,2 +1,2 @@
-var colors = new Array("red","blue", "orange", "yellow", "green" );
+var colors = new Array("turqoise","blue", "orange", "yellow", "green" );
 console.log(colors.sort());
